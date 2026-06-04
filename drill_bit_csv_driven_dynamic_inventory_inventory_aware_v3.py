@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# Public release version for reproducible academic testing.
 """
 PCB drill-bit allocation with CSV-driven production, inventory, policy, and hole-rule settings
 ============================================================================================
