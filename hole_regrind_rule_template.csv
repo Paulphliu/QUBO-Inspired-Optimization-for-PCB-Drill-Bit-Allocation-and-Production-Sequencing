@@ -1,0 +1,16 @@
+hole_type,regrind_level,allowed,remark
+A,R0E,1,Type A uses new drill only
+A,R0N,0,
+A,R1,0,
+A,R2,0,
+A,R3,0,
+B,R0E,0,
+B,R0N,1,Type B may use R0N continuation
+B,R1,1,Type B may use R1
+B,R2,1,Type B may use R2 if process allows
+B,R3,0,
+C,R0E,0,Type C may open new drill if allowed by process
+C,R0N,0,Type C may use R0N continuation
+C,R1,0,Type C may use R1
+C,R2,1,Type C may use R2
+C,R3,1,Type C may use R3

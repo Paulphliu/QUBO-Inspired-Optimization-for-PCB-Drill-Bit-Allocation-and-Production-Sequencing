@@ -1,0 +1,7 @@
+﻿date,pn,batch_id,panels,A_per_panel,B_per_panel,C_per_panel,due_priority,fixed_sequence,remark
+2026/5/14,PN-A,Lot001,240,1500,42000,2500,0,,can be optimized
+2026/5/14,PN-B,Lot002,80,1500,50000,5000,0,,can be optimized
+2026/5/14,PN-C,Lot003,120,1000,35000,1500,0,,can be optimized
+2026/5/14,PN-D,Lot004,120,500,45000,1500,2,,rush lot
+2026/5/14,PN-E,Lot005,180,2000,35000,2000,1,,normal priority
+2026/5/14,PN-F,Lot006,120,500,35000,2000,0,,can be optimized

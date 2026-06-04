@@ -1,0 +1,4 @@
+﻿date,policy_name,active,w_change,w_cost,w_due,w_inventory,w_capacity,w_quality,preferred_regrind,preference_strength,remark
+2026/5/14,normal,1,1,1,1,1,1,1000000000,,0,balanced default setting
+2026/5/14,rush_order,0,1.2,0.8,3,0.8,1,1000000000,,0,use when urgent lots should move earlier
+2026/5/14,consume_old_bits,0,0.5,1,1,2.5,1,1000000000,R3,0.8,use when old regrind drills should be consumed first
