@@ -1,0 +1,5 @@
+﻿count_level,source_inventory_level,available_count,allowed_count_after_reserve,used_count_estimate,remaining_count_estimate,min_reserve_count,below_reserve_after_run,over_allowed_count
+R0,R0E,10000,9000,4320,5680,1000,0,0
+R1,R1,5000,4500,1779,3221,500,0,0
+R2,R2,9000,8500,8483,517,500,0,0
+R3,R3,5000,5000,980,4020,0,0,0
